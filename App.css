@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #e0ded0;
+  }
+  
+  .pages {
+    color: #e5e5e6;
+    text-align: center;
+    font-size: 3.7rem;
+    margin-top: 10%;
+    font-weight: bolder;
+  }
+
+  .uptext {
+      color:black;
+      text-decoration: black;
+      font-size: 3.7rem;
+      font-weight: bolder;
+    
+  }
+
+  .downtext {
+      color: darkslategray;
+      text-align: left;
+      font-size: 1.6rem ;
+  }
